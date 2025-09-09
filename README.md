@@ -40,16 +40,5 @@ Both systems are based on **ESP32 microcontrollers** and were developed as part 
 
 ---
 
-## 📷 Prototype
-![IMG20250825220529](https://github.com/user-attachments/assets/ed84ee83-baf1-4ad7-a9ab-3d0e0d52c419)
-![IMG20250825220536](https://github.com/user-attachments/assets/9a97c550-537c-4db8-8acb-4bdbd9eebe59)
-![IMG20250825220821](https://github.com/user-attachments/assets/3d2d70bf-929e-4c19-8255-78b0a606b6c6)
-
-
----
- 
-
----
-
 ## 📜 License
 This project is shared under the MIT License for learning and exploration. See LICENSE for details.
