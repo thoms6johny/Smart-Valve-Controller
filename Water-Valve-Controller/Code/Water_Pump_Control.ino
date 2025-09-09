@@ -7,7 +7,7 @@
 bool espNowInitialized = false;
 
 // Replace with the MAC address of your transmitter ESP32
-uint8_t transmitterAddress[] = {0xE4, 0xB0, 0x63, 0x41, 0x14, 0xC4};
+uint8_t transmitterAddress[] = {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX};
 
 void sendResponse(const char *response) {
   esp_err_t result = esp_now_send(transmitterAddress, (uint8_t *)response, strlen(response));
