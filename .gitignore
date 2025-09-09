@@ -1,41 +1,35 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Compiled object files
 *.o
 *.obj
+*.elf
 
-# Precompiled Headers
-*.gch
-*.pch
+# Arduino build files
+*.hex
+*.bin
+*.eep
+*.map
 
-# Linker files
-*.ilk
+# VSCode / PlatformIO
+.vscode/
+.pio/
+.DS_Store
 
-# Debugger Files
-*.pdb
+# KiCad backup files
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.kicad_sch-bck
+*.kicad_pcb-bck
+*.tmp
+fp-info-cache
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Logs
+*.log
+*.tmp
+*.swp
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Gerber outputs (optional, if you don’t want them tracked)
+*.gbr
+*.drl
+*.zip
