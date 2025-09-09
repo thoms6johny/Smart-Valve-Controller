@@ -45,11 +45,7 @@ Both systems are based on **ESP32 microcontrollers** and were developed as part 
 
 
 ---
-
-## ⚡ Lessons Learned
-- Not all “logic-level” MOSFETs truly switch at 3.3V — check datasheets carefully.  
-- Sensors must match MCU logic levels (voltage dividers can help).  
-- Open-drain outputs like STAT need proper pull-ups for clean signals.  
+ 
 
 ---
 
