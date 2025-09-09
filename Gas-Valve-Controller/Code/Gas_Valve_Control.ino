@@ -9,7 +9,7 @@
 #define BUTTON_PIN   5   // Push button
 
 // Master (receiver) MAC Address – update this to match your master device
-uint8_t receiverAddress[] = {0xE4, 0xB0, 0x63, 0x41, 0x14, 0xC4};
+uint8_t receiverAddress[] = {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX};
 
 // Internal state variables
 bool valveOpen = false;
