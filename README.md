@@ -1,5 +1,7 @@
 # Smart Valve Controller Project
 
+(This is a personal learning project created independently in my own time.)
+
 ## 📌 Overview
 This repository contains two related embedded systems projects:
 1. **Water Valve Controller**  
