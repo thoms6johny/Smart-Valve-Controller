@@ -9,7 +9,7 @@
 #define AC_STATUS_LED    4     // ON when AC power is present
 
 // Receiver ESP32 MAC Address – replace with actual
-uint8_t receiverAddress[] = {0x0C, 0x4E, 0xA0, 0x30, 0x86, 0x9C};  
+uint8_t receiverAddress[] = {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX};  
 
 bool lastPowerStatus = false;
 bool awaitingAck = false;
